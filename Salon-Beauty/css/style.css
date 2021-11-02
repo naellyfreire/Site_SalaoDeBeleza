@@ -1,0 +1,35 @@
+/*NAV BAR*/
+.navbar{
+	background-color: #F79A87;
+}
+
+a{
+	color: #FFFFFF;
+}
+
+a:hover{
+	color: #FFFFFF;
+}
+
+
+.img-principal{
+	width: 100%;
+}
+
+/*SOBRE*/
+.sobre{
+	height: 698px;
+	background-color: #FBEFE3;
+	text-align: center;
+}
+
+h1{
+	color: #665858;
+	font-family: sans-serif;
+	font-size: 40px;
+}
+
+hr{
+	background-color: #665858;
+	width: 408px;
+}
